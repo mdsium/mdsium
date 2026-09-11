@@ -1,90 +1,110 @@
 # 👋 Hi, I'm Md. Sium
 
-### 💻 Software Engineer | Frontend Developer | Full-Stack Enthusiast
+### 💻 Software Engineer | Full-Stack Developer | Problem Solver
 
-I'm a **Computer Science & Engineering graduate/student** from **Green University of Bangladesh**, passionate about building modern, scalable, and user-friendly software applications.
+<p align="left">
+  <a href="https://github.com/mdsium">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[your-email@example.com](mailto:your-email@example.com)">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I enjoy working across the stack — from designing responsive interfaces with **React.js & Tailwind CSS** to building APIs and backend systems with **Laravel, Django, PHP, Java, and MySQL**.
-
-* 🔭 Currently working on: **Bangladesh House Price Prediction**
-* 🌱 Currently learning: **Java, Spring Boot, Laravel & Full-Stack Development**
-* 💻 Interested in: **Software Engineering, Web Development & AI/ML**
-* 🚀 Experience with: **Frontend Development & REST API Integration**
-* 🎯 Goal: Become a skilled **Software Engineer**
-* 📍 Based in Bangladesh
+> Building modern web applications, learning every day, and turning ideas into real-world software.
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Let's Connect
 
-### 👨‍💻 Programming Languages
+I'm always open to discussing **software development, web technologies, open-source projects, freelancing, and new opportunities.**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,cpp" />
+<p align="left">
+  <a href="https://github.com/mdsium">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[your-email@example.com](mailto:your-email@example.com)">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-### 🎨 Frontend Development
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science & Engineering** developer passionate about building clean, scalable, and user-friendly applications.
+
+I work across both **frontend and backend development**, with experience in modern JavaScript frameworks, PHP/Laravel, Java, Django, REST APIs, databases, and machine learning.
+
+* 🎓 Computer Science & Engineering
+* 💻 Frontend & Backend Development
+* ⚛️ React / Next.js enthusiast
+* ☕ Java & Spring Boot learner
+* 🐘 PHP & Laravel developer
+* 🐍 Django & REST API developer
+* 🤖 Interested in Machine Learning
+* 🧠 Practicing Data Structures & Algorithms
+* 🚀 Interested in Software Engineering & Full-Stack Development
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,cpp" />
 </p>
 
-**Technologies:**
-`React.js` · `Next.js` · `JavaScript ES6+` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Material UI` · `Bootstrap` · `GSAP` · `Responsive Design`
-
-### ⚙️ Backend Development
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,django,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,bootstrap" />
 </p>
 
-**Technologies:**
-`PHP` · `Laravel` · `Django` · `Django REST Framework` · `Node.js` · `REST API` · `MVC` · `OOP` · `Authentication` · `CRUD`
+`React.js` · `Next.js` · `JavaScript ES6+` · `TypeScript` · `Tailwind CSS` · `Material UI` · `GSAP`
 
-### 🗄️ Database
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,django,nodejs,express,spring" />
+</p>
+
+`PHP` · `Laravel` · `Django` · `Django REST Framework` · `Node.js` · `REST API` · `MVC` · `OOP`
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
 </p>
 
 `MySQL` · `PostgreSQL` · `SQLite` · `Firebase`
 
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* Regression Models
-* Data Preprocessing
-* Model Evaluation
-* Random Forest
-* XGBoost
-* Gradient Boosting
-* Ridge Regression
-* Linear Regression
-* House Price Prediction
-
-### 🔧 Tools & DevOps
+### Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,linux" />
 </p>
 
-`Git` · `GitHub` · `REST API` · `Postman` · `CI/CD` · `Figma` · `VS Code` · `Deployment`
+`Git` · `GitHub` · `Postman` · `Docker` · `CI/CD` · `Figma` · `VS Code`
 
 ---
 
-# 🚀 Featured Projects
+## ⭐ Featured Projects
 
-## 🏠 Bangladesh House Price Prediction
+### 🏠 Bangladesh House Price Prediction
 
-**Comparative Analysis of Regression Models for House Price Prediction**
+> Machine learning web application for predicting house prices in Bangladesh.
 
-A machine-learning-based web application that predicts house prices in Bangladesh using different regression algorithms.
+**Tech:** `Python` `Django` `DRF` `React` `Vite` `Machine Learning`
 
-### Technologies
-
-`Python` · `Machine Learning` · `Django` · `Django REST Framework` · `React` · `Vite` · `REST API`
-
-### Models
+**Models:**
 
 * Linear Regression
 * Ridge Regression
@@ -92,120 +112,101 @@ A machine-learning-based web application that predicts house prices in Banglades
 * XGBoost
 * Random Forest ⭐
 
-**Final Selected Model:** Random Forest
+**Final Model:** Random Forest
+
+🔗 Repository:
+https://github.com/mdsium/house-price-prediction
 
 ---
 
-## 🕌 Mosque Mate
+### 🕌 Mosque Mate
 
-An Islamic web application designed to provide useful mosque and Islamic resources through a modern web interface.
+> Modern Islamic web platform designed to provide useful Islamic resources and mosque-related services.
 
-### Features
+**Features:**
 
-* 🔐 User & Admin Authentication
-* 📢 Admin Notifications
-* 💬 User-to-Admin Messaging
-* 🕌 Monthly Prayer Times
-* 📖 Online Quran
-* 📜 Hadith
-* 📚 Islamic Books
-* 🔌 API Integration
-* 👨‍💼 Admin Management
-
-**Focus:** Islamic Digital Services & Community Support
+`Authentication` · `Prayer Times API` · `Quran API` · `Hadith` · `Islamic Books` · `Notifications` · `Messaging` · `Admin Panel`
 
 ---
 
-## 💬 ByteChat
+### 💬 ByteChat
 
-A Java-based real-time chat application developed to explore network programming and client-server communication.
+> Real-time Java chat application built to explore networking and client-server communication.
 
-### Technologies
-
-`Java` · `Socket Programming` · `Client-Server Architecture` · `OOP`
+**Tech:** `Java` `Socket Programming` `OOP` `Client-Server Architecture`
 
 ---
 
-## 🛒 Simple POS System
+### 🛒 Simple POS
 
-A desktop-based Point of Sale application developed with Java.
+> Desktop-based Point of Sale application developed with Java.
 
-### Features
+**Features:**
 
-* Product Management
-* Quantity & Price Management
-* Sales Management
-* Table-based UI
-* CRUD Operations
+`Product Management` · `Sales Management` · `CRUD` · `Database Integration`
 
-**Technologies:** `Java` · `Swing` · `MySQL`
+**Tech:** `Java` `Swing` `MySQL`
 
 ---
 
-# 💼 Internship Experience
+## 💼 Experience
 
 ### Frontend Web Developer Intern — Zensoft Lab
 
 **February 2026 – April 2026**
 
-Worked on practical software development and modern frontend technologies.
+Worked on practical software development projects using modern frontend and API technologies.
 
-### Technologies & Skills
+**Skills & Technologies:**
 
-`React.js` · `Material UI` · `Tailwind CSS` · `JavaScript ES6+` · `REST API` · `Git` · `GitHub` · `MERN` · `AJAX` · `JSON` · `Node.js` · `CI/CD`
+`React.js` · `Material UI` · `Tailwind CSS` · `JavaScript ES6+` · `REST API` · `Git` · `GitHub` · `Node.js` · `AJAX` · `JSON` · `CI/CD`
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 ```text
-Java
- ├── OOP
- ├── DSA
- ├── Competitive Programming
- └── Spring Boot
+Java & Spring Boot
+        ↓
+OOP → DSA → REST API → Spring Boot
 
-Web Development
- ├── React.js
- ├── Next.js
- ├── Laravel
- ├── REST API
- └── Full-Stack Development
+Frontend Development
+        ↓
+React → Next.js → TypeScript → Advanced UI
+
+Backend Development
+        ↓
+Laravel → Django → REST API → Authentication
 
 Software Engineering
- ├── Git & GitHub
- ├── Clean Code
- ├── MVC
- └── System Design
+        ↓
+Clean Code → Git → Testing → System Design
 ```
 
 ---
 
-# 🎯 Career Goals
+## 🎯 2026 Goals
 
-I'm currently focusing on becoming a strong **Software Engineer** with expertise in:
-
-* ☕ Java & Spring Boot
-* ⚛️ React & Next.js
-* 🐘 PHP & Laravel
-* 🐍 Django & REST APIs
-* 🗄️ SQL & Database Design
-* 🧠 Data Structures & Algorithms
-* 🤖 Machine Learning
-* ☁️ Deployment & CI/CD
+* [ ] Become a professional Software Engineer
+* [ ] Master Java & Spring Boot
+* [ ] Improve DSA & Problem Solving
+* [ ] Build production-ready Full-Stack applications
+* [ ] Contribute to Open Source
+* [ ] Improve system design knowledge
+* [ ] Build and deploy more real-world projects
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsium&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsium&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsium&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdsium&theme=tokyonight&hide_border=true" />
@@ -213,7 +214,7 @@ I'm currently focusing on becoming a strong **Software Engineer** with expertise
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsium&theme=tokyo-night&hide_border=true" />
@@ -221,19 +222,22 @@ I'm currently focusing on becoming a strong **Software Engineer** with expertise
 
 ---
 
-# 🤝 Let's Connect
+## 💡 What I Love
 
-<p>
-  <a href="https://github.com/mdsium">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+```text
+💻 Writing clean & maintainable code
+🚀 Building real-world applications
+🧠 Learning new technologies
+🔧 Solving programming problems
+🎨 Creating modern user interfaces
+🤖 Exploring AI & Machine Learning
+🌎 Contributing to the developer community
+```
 
 ---
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+<h3 align="center">✨ Code. Build. Learn. Repeat. ✨</h3>
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
