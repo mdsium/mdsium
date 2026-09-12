@@ -163,6 +163,7 @@ https://github.com/mdsium/house-price-prediction
 
 
 🔗 **Live link:**
+
 https://house-price-prediction-rho-seven.vercel.app/
 
 ---
@@ -203,7 +204,7 @@ A desktop-based Point of Sale application built with Java.
 ### Features
 
 - Product Management
-- Sales ManagementExperience
+- Sales Management Experience
 - Quantity & Price Management
 - CRUD Operations
 - Database Integration
