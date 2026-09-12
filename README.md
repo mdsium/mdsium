@@ -217,12 +217,24 @@ A desktop-based Point of Sale application built with Java.
 
 **April 2026 – July 2026**
 
-Worked on practical software development projects and modern frontend technologies.
+Worked on practical software development projects and modern frontend technologies. Built a modern conference platform using React and modern UI technologies.
+
+### 🚀 IICSD 2027 — International Conference Website
+
+**What I worked on:**
+- 🎨 Responsive & modern UI development
+- ⚛️ React.js, TypeScript
+- 🔌 REST API integration
+- 📝 Registration & author-related features
+- 🔐 Authentication & dynamic workflows
+- 🚀 Deployment & production optimization
+
+**🔗 Live:** [iicsd.com](https://iicsd.com/)
 
 ### Technologies
 
-`React.js` · `Material UI` · `Tailwind CSS` · `JavaScript ES6+`  
-`REST API` · `Git` · `GitHub` · `Node.js` · `AJAX` · `JSON` · `CI/CD`
+`React.js` · `Material UI` · `Tailwind CSS` · `TypeScript`  
+`REST API` · `Git` · `GitHub` · `django` · `JSON` · `CI/CD`
 
 ---
 
