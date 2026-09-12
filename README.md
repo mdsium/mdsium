@@ -14,7 +14,7 @@
 
 - 🌐 Check out my personal website: <a href="https://mdsium.github.io/portfolio/" target="_blank">**mdsium**</a> 
 
-- 📫 Reach me out at **mdsiumcse@gmail.com**
+- 📫 Reach out to me at **mdsiumcse@gmail.com**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
@@ -29,8 +29,6 @@
 </p>
 
 ## 🚀 About Me
-
-### 💻 Software Engineer | Frontend Developer | Full-Stack Enthusiast
 
 I'm a **Computer Science & Engineering graduate/student** from **Green University of Bangladesh**, passionate about building modern, scalable, and user-friendly software applications.
 
