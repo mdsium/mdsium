@@ -48,7 +48,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
 - ☕ Java & OOP
 - 🐍 Python & Django
 - 🔌 REST API Development & Integration
-- 🗄️ MySQL & SQL
+- 🗄️ MySQL 
 - 🤖 Machine Learning
 - 🧠 Data Structures & Algorithms
 - 🚀 Deployment & CI/CD
