@@ -19,7 +19,7 @@
 <h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://www.facebook.com/mdsium0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-sium-27787a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sium-27787a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdsium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wadith027" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shad.wadith" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/wadith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wadith" height="30" width="40" /></a> -->
