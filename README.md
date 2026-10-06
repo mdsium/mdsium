@@ -12,7 +12,7 @@
 
 - 💻 **Full-Stack Developer**
 
-- 🌐 Check out my personal website: <a href="https://mdsium.github.io/portfolio/" target="_blank">**mdsium**</a> 
+- 🌐 Check out my personal website: <a href="https://mdsium.vercel.app/" target="_blank">mdsium.vercel.app</a> 
 
 - 📫 Reach out to me at **mdsiumcse@gmail.com**
 
