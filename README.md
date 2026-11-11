@@ -46,6 +46,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
 - ⚛️ React.js & Next.js
 - 🐘 PHP & Laravel
 - ☕ Java & OOP
+- 🌐  C# & .NET
 - 🐍 Python & Django
 - 🔌 REST API Development & Integration
 - 🗄️ MySQL 
@@ -63,7 +64,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
   <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c" />
 </p>
 
-`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` 
+`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `C#`
 
 ---
 
@@ -84,7 +85,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
   <img src="https://skillicons.dev/icons?i=php,laravel,django,nodejs,express" />
 </p>
 
-`PHP` · `Laravel` · `Django` · `Django REST Framework` · `Node.js` · `Express.js`
+`PHP` · `Laravel` · `Django` · `Django REST Framework` · `Node.js` · `.NET`
 
 ### Backend Concepts
 
