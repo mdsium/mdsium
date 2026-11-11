@@ -61,10 +61,10 @@ I enjoy working across the stack — from designing responsive interfaces with *
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,c#" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,cs" />
 </p>
 
-`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `cs`
+`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `C#`
 
 ---
 
