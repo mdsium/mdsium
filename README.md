@@ -64,7 +64,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
   <img src="https://skillicons.dev/icons?i=java,php,js,ts,python,c,c#" />
 </p>
 
-`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `C#`
+`Java` · `PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `cs`
 
 ---
 
@@ -82,7 +82,7 @@ I enjoy working across the stack — from designing responsive interfaces with *
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,django,nodejs,.net" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,django,nodejs,dotnet" />
 </p>
 
 `PHP` · `Laravel` · `Django` · `Django REST Framework` · `Node.js` · `.NET`
